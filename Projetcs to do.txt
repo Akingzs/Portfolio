@@ -1,0 +1,11 @@
+
+1 - Weather app
+2 - Discord bot
+3 - Mine camp game
+4 - Password generator
+5 - URL shortener
+6 - Market system
+7 - Delivery Website
+8 - Sales analysis 
+9 - Credit card Costumer behavior
+10 - Mail automation sales indicators
